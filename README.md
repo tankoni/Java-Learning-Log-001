@@ -1,2 +1,2 @@
 # Java-Learning-Log-001
-Learning-Log
+these are my Java's learning codes
